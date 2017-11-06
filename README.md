@@ -5,14 +5,14 @@ Anhk Bot Script for getting your MMR in the game Gigantic
 
 ## Synopsis
 
-This is currently the first iteration of a Multi Twitch builder for the site beta.multitwitch.net. It currently only points to the streamers currently streaming from Valhallas Most Wanted stream community.
+This is currently the first iteration of a script designed to grab your MMR from a Gigantic Stats Website
 
 ## Motivation
 
-I made this script because the community I am a part of, Valhallas Most Wanted, always had issues with who was streaming and buuilding multi twitches for people who wanted to watch all of us.
+This was a request from someone who needed custom scripting done
 
 ## Installation
-First [Download v1.0.0.0](https://github.com/djc12/MultiTwitchBuilder/raw/master/MultiTwitch.zip)
+First [Download v1.0.0.0](https://github.com/djc12/GiganticMMR/raw/master/GiganticMMR.zip)
 
 Once downloaded, open up the scripts portion of Anhkbot. Click the Import symbol in the top right and select the zip file you just downloaded. Enable the script and ti should now work!
 
